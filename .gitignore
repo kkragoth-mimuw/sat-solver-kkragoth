@@ -1,0 +1,7 @@
+.DS_Store
+*.hi
+*.o
+sat-solver
+tester
+test_output.txt
+dist-newstyle
